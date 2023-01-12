@@ -1,16 +1,10 @@
-.btn {
-    color: white;
-    max-height: 160px;
-    background-color: #6a0c17;
-    border-radius: 10px;
-    box-shadow: 1px 1px 5px #000000;
-    border-color: rgba(28, 8, 8, 0.335);
-    margin: 20px 35px;
-    cursor: pointer;
-    /* padding-left: 50px;
-    padding-right: 50px; */
-    padding: 10px 60px 10px; 
+.title-principal {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #fff;
+    margin-bottom: 50px;
 	text-shadow:
 		0 0 5px rgb(255, 0, 0),
 		0 0 10px rgb(252, 8, 0),
@@ -20,4 +14,5 @@
 		0 0 90px rgb(97, 15, 1),
 		0 0 100px rgb(78, 14, 3),
 		0 0 140px rgb(52, 9, 1);
+
 }

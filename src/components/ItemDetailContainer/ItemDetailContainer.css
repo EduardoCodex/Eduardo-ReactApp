@@ -1,0 +1,74 @@
+.itemCard-Detail {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 20px;
+    background-color: #000000d6;
+    box-shadow: 1px 2px 20px rgb(78, 0, 0);
+    animation-duration: 2s;
+    animation-name: slidein;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.itemCard_header {
+    font-size: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #fff;
+	text-shadow:
+		0 0 5px rgb(255, 0, 0),
+		0 0 10px rgb(252, 8, 0),
+		0 0 20px rgb(252, 8, 0),
+		0 0 40px rgb(107, 16, 0),
+		0 0 80px rgb(107, 16, 0),
+		0 0 90px rgb(97, 15, 1),
+		0 0 100px rgb(78, 14, 3),
+		0 0 140px rgb(52, 9, 1);
+}
+
+.itemCard_title {
+    font-size: px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #fff;
+	text-shadow:
+		0 0 5px rgb(255, 0, 0),
+		0 0 10px rgb(252, 8, 0),
+		0 0 20px rgb(252, 8, 0),
+		0 0 40px rgb(107, 16, 0),
+		0 0 80px rgb(107, 16, 0),
+		0 0 90px rgb(97, 15, 1),
+		0 0 100px rgb(78, 14, 3),
+		0 0 140px rgb(52, 9, 1);
+}
+
+.itemCard_price {
+    font-size: 30px;
+    margin-top: 60px;
+}
+
+.CardTitle {
+    font-size: 50px;
+    margin: auto;
+}
+
+.CardImg {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.cardInfo {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+
+}
+
+.CardDetail {
+    font-size: 30px;
+}

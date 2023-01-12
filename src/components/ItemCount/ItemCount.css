@@ -1,0 +1,27 @@
+.item-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#6a0c17;
+    margin-left: 10px;
+    margin-top: 144px;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    padding-left: 21px;
+    padding-right: 20px;
+}
+
+.button-name {
+    font-size: 20px;
+}
+
+.button-count {
+    margin: 5px;
+    cursor: pointer;
+}
+
+.btnComprar {
+    cursor: pointer;
+}
